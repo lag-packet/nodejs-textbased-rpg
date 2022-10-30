@@ -32,4 +32,4 @@ function highFunction(callback) {
     callback();
 }
 
-highFunction(fn());
+highFunction(fn()); //test
